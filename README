@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2608
+
+Send the current range to the STDIN of an arbitrary command line program. Special support for sending text to an ipython interpreter running inside screen (via my send2screen.py script)
+http://users.physik.fu-berlin.de/~goerz/blog/2008/09/integrating-vim-with-ipython/
